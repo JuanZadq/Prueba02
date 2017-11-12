@@ -1,3 +1,4 @@
+#### ======================================
 #### Colores usados en el programa original
 #### ======================================
 #### Color claro:  Verde claro 
