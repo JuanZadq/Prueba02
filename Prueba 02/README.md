@@ -1,7 +1,8 @@
 #### Colores usados en el programa original
+#### ======================================
 #### Color claro:  Verde claro 
 #### Color oscuro: Gris
-
+##################################################
 
 # A Blank PhoneGap App
 
